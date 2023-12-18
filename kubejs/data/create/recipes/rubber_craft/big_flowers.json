@@ -1,0 +1,23 @@
+  {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 100
+      },
+      {
+        "tag": "minecraft:tall_flowers"
+      },
+      {
+        "tag": "minecraft:tall_flowers"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "thermal:latex",
+        "amount": 50
+      }
+    ],
+    "heatRequirement": "none"
+  }

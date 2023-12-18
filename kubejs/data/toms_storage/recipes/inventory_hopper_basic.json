@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "create:brass_sheet"
+      },
+      {
+        "item": "minecraft:hopper"
+      }
+    ],
+    "result": {
+      "item": "toms_storage:ts.inventory_hopper_basic",
+      "count": 1
+    }
+  }

@@ -1,0 +1,31 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "kubejs:pig_tuff"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "chance": 0.25,
+      "item": "minecraft:flint"
+    },
+    {
+      "chance": 0.1,
+      "item": "thermal:nickel_nugget"
+    },
+    {
+      "chance": 0.1,
+      "item": "thermal:lead_nugget"
+    },
+    {
+      "chance": 0.1,
+      "item": "thermal:silver_nugget"
+    },
+    {
+      "chance": 0.1,
+      "item": "thermal:tin_nugget"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+coremods/
+crash-reports/
+datapacks/
+defaultconfigs/
+ldlib/
+local/
+localconfigs/
+logs/
+server-resource-packs/
+profile.json
+usercache.json
+usernamecache.json

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #B",
+    "#i#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "thermal:invar_ingot"
+    },
+    "i": {
+      "item": "minecraft:tnt"
+    },
+    "B": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "supplementaries:bomb_blue",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "createdieselgenerators:distillation",
+  "ingredients": [
+    {
+      "fluidTag": "forge:crude_oil",
+      "amount": 100
+    }
+  ],
+  "heatRequirement": "heated",
+  "processingTime": 100,
+  "results": [
+    {
+      "fluid": "createdieselgenerators:diesel",
+      "amount": 50
+    },
+    {
+      "fluid": "createdieselgenerators:gasoline",
+      "amount": 50
+    },
+    {
+      "fluid": "kubejs:molten_sulfur",
+      "amount": 10
+    }
+  ]
+}

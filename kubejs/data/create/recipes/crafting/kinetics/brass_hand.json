@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "create:electron_tube"
+    },
+    "B": {
+      "tag": "forge:plates/gold"
+    }
+  },
+  "pattern": [
+    " A ",
+    "BBB",
+    " B "
+  ],
+  "result": {
+    "item": "create:brass_hand"
+  }
+}

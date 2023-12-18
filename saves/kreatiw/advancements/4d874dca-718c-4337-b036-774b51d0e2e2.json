@@ -1,0 +1,143 @@
+{
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2023-09-11 22:17:55 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-09-11 22:17:50 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2023-09-11 22:17:50 +0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-09-11 22:17:50 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2023-09-11 22:17:50 +0700"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2023-09-11 22:22:34 +0700",
+      "1": "2023-09-11 22:20:53 +0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2023-09-11 22:17:55 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2023-09-11 22:17:50 +0700",
+      "inv_changed-diamond": "2023-09-11 22:17:50 +0700"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2023-09-11 22:26:01 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2023-09-11 22:17:55 +0700"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2023-09-11 22:20:36 +0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-09-11 22:17:55 +0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-09-11 22:17:55 +0700"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2023-09-11 22:22:37 +0700"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2023-09-11 22:22:36 +0700"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2023-09-11 22:26:05 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2023-09-11 22:17:50 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:root": {
+    "criteria": {
+      "crafting_table": "2023-09-11 22:17:50 +0700"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2023-09-11 22:24:44 +0700"
+    },
+    "done": true
+  },
+  "everythingisedibleeie:everything_is_edible": {
+    "criteria": {
+      "everything_is_edible": "2023-11-13 17:01:11 +0700"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2023-09-11 22:22:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-09-11 22:19:14 +0700"
+    },
+    "done": false
+  },
+  "create:steam_engine_maxed": {
+    "criteria": {
+      "0": "2023-09-11 22:22:44 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

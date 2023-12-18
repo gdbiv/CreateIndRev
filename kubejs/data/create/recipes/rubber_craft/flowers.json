@@ -1,0 +1,29 @@
+  {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 100
+      },
+      {
+        "tag": "minecraft:small_flowers"
+      },
+      {
+        "tag": "minecraft:small_flowers"
+      },
+      {
+        "tag": "minecraft:small_flowers"
+      },
+      {
+        "tag": "minecraft:small_flowers"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "thermal:latex",
+        "amount": 50
+      }
+    ],
+    "heatRequirement": "none"
+  }

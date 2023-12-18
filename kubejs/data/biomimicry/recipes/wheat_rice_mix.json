@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 100,
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "biomimicry:wheat_rice_mix"
+    }
+  ]
+}

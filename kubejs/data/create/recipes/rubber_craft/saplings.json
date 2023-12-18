@@ -1,0 +1,29 @@
+  {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 100
+      },
+      {
+        "tag": "minecraft:saplings"
+      },
+      {
+        "tag": "minecraft:saplings"
+      },
+      {
+        "tag": "minecraft:saplings"
+      },
+      {
+        "tag": "minecraft:saplings"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "thermal:latex",
+        "amount": 50
+      }
+    ],
+    "heatRequirement": "none"
+  }

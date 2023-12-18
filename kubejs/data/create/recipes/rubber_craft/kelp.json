@@ -1,0 +1,29 @@
+  {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 100
+      },
+      {
+        "item": "minecraft:kelp"
+      },
+      {
+        "item": "minecraft:kelp"
+      },
+      {
+        "item": "minecraft:kelp"
+      },
+      {
+        "item": "minecraft:kelp"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "thermal:latex",
+        "amount": 50
+      }
+    ],
+    "heatRequirement": "none"
+  }

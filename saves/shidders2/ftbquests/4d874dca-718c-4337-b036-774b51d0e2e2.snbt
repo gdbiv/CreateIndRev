@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4d874dca718c4337b036774b51d0e2e2"
+	name: "Graph_Bober_IV"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
