@@ -1,0 +1,126 @@
+{
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2023-12-19 00:30:36 +0700"
+    },
+    "done": true
+  },
+  "cyber_craft:cyber_ctaft": {
+    "criteria": {
+      "cyber_ctaft": "2023-12-19 00:30:38 +0700"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2023-12-19 00:45:23 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-12-19 00:30:18 +0700"
+    },
+    "done": true
+  },
+  "cyber_craft:newpower": {
+    "criteria": {
+      "newpower": "2023-12-19 00:36:30 +0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-12-19 00:30:36 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2023-12-19 00:30:18 +0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-12-19 00:30:18 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2023-12-19 00:30:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-12-19 00:42:50 +0700"
+    },
+    "done": true
+  },
+  "cyber_craft:runercyber_1": {
+    "criteria": {
+      "runercyber_1": "2023-12-19 00:38:50 +0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2023-12-19 00:30:36 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2023-12-19 00:30:18 +0700",
+      "inv_changed-diamond": "2023-12-19 00:30:18 +0700"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2023-12-19 00:30:36 +0700"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2023-12-19 00:43:48 +0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-12-19 00:30:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-12-19 00:41:48 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2023-12-19 00:30:18 +0700"
+    },
+    "done": true
+  },
+  "everythingisedibleeie:everything_is_edible": {
+    "criteria": {
+      "everything_is_edible": "2023-12-19 00:30:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2023-12-19 00:32:12 +0700",
+      "minecraft:beach": "2023-12-19 00:30:38 +0700",
+      "minecraft:river": "2023-12-19 00:35:00 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
